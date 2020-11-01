@@ -1,0 +1,6 @@
+context_path: kedro_recsys.run.ProjectContext
+project_name: "Kedro RecSys"
+project_version: "0.16.6"
+package_name: "kedro_recsys"
+hooks:
+  - kedro_recsys.hooks.project_hooks
